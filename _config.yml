@@ -1,7 +1,7 @@
 name: TheAdvisor
 favicon: null
-layout_spectrum: 0.5876382207497954
-typography_spectrum: 0.0660302028991282
+layout_spectrum: 1
+typography_spectrum: 0.43689
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.5884582246653736
-  lightness: 0.8654310256242752
-  saturation: 0.6390582246240228
-  rhythmicContrast: 0.369896212592721
+  brandStrength: 0.1875
+  lightness: 0.125
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
