@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[TheAdvisor]]></title>
         <description><![CDATA[TheAdvisor]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/theadvisor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 23:33:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 23:36:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theadvisor/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>HEY RICHARD,</p>]]></description>
-            <link>undefinedhey-richard/index.html</link>
+            <link>https://thegrid.ai/theadvisor/hey-richard/index.html</link>
             <guid isPermaLink="false">d7cc6c15-4960-4682-b551-e3eafb4d81e2</guid>
-            <pubDate>Tue, 22 Mar 2016 23:33:33 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2016 23:36:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
