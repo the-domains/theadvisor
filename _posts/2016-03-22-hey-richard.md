@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'HEY RICHARD,'
-datePublished: '2016-03-22T23:33:33.156Z'
-dateModified: '2016-03-22T23:33:14.160Z'
+datePublished: '2016-03-22T23:36:45.939Z'
+dateModified: '2016-03-22T23:33:38.865Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-22-hey-richard.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-22-hey-richard.md
-published: true
 url: hey-richard/index.html
 _type: Article
 
