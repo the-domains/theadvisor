@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'HEY RICHARD,'
-datePublished: '2016-03-22T23:36:45.939Z'
-dateModified: '2016-03-22T23:33:38.865Z'
+datePublished: '2016-03-22T23:47:51.929Z'
+dateModified: '2016-03-22T23:47:24.884Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-22-hey-richard.md
@@ -22,7 +22,7 @@ url: hey-richard/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c70def00-570a-4ba6-84a6-ab411aaaa194.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b709321a-0213-47bc-bba6-91eb5da6b860.jpg)
 
 HEY RICHARD,
 
